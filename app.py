@@ -170,7 +170,7 @@ HTML_TEMPLATE = '''
 </head>
 <body>
     <div class="container">
-        <h1>🔢 Multiplication Table Generator</h1>
+        <h1>🔢 Generator Multiplication Table Till 1000</h1>
         
         <div class="form-group">
             <form method="POST">
