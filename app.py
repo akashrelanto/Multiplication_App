@@ -7,7 +7,7 @@ HTML_TEMPLATE = '''
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Multiplication Table Generator</title>
+    <title>Multiplication Table Generator Till 1000</title>
     <style>
         * {
             margin: 0;
